@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full-Stack Developer from Turkey. <br>I am a Mechanical Engineering student at Balikesir University.<br><br>
+I am a Full-Stack Developer from Turkey.<br><br>
 
 
 ## 🌐 Socials:
