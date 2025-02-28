@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a Full-Stack Developer from Turkey.<br><br>
-
+Dynamic Front-End Developer with 4+ years of experience delivering high-quality, interactive web applications. Proficient in front-end technologies (ReactJS, NextJS, TypeScript) and backend systems (ExpressJS, Sequelize). Expertise in managing microfrontend architectures, creating REST APIs, and implementing DevOps tools like Docker and Jenkins. Passionate about enhancing user experiences and driving team collaboration to build scalable and performant software systems.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ulas.kklcc_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ula%C5%9F-k%C3%B6kk%C4%B1l%C4%B1%C3%A7-708492223/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@tarcoss) 
